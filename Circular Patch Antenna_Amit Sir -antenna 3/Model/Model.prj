@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Alok Yadav
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:circular patch antenna_amit sir -antenna 3.cst?6d88485b2a565db4e8a968dee3d55c18?41005:numberofparameters=0:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0
+[Comment]

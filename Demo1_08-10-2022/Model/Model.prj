@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Amitc210
+[Mesh Cells]
+398,748
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:demo1_08-10-2022.cst?4be833895176907a7f5160f57d361ecf?10187:numberofparameters=11:port=1>mode=1>zre=0>zim=0:::hd?hp?xd?xgr?xm?xp?yd?ygm?ygr?ym?yp
+[Comment]

@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Alok Yadav
+[Mesh Cells]
+147,900
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:practice patch antenna.cst?bf2e2d9d09992b0a6bae300b801718a0?9077:numberofparameters=11:port=1>mode=1>zre=50>zim=0:::inl?inw?ml?mw?mt?pl?pw?sh?sl?sw?k
+[Comment]

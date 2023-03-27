@@ -1,0 +1,1184 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:25:50
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+========================================
+Processing CAD model (for field results)
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:25:52
+========================================
+
+==================================================================================================
+== CST Matrix Calculation Priority Log                                                          ==
+==================================================================================================
+ 
+Priorities are sorted in ascending order beginning with the lowest priority
+ 
+Priority:   3, shape  13: component1:Substrate, material: FR-4 (lossy)
+Priority:   4, shape   1: component1:Antenna 4, material: Copper (annealed)
+Priority:   4, shape   2: component1:Antenna 4_1, material: Copper (annealed)
+Priority:   4, shape   9: component1:Attached sqr patch, material: Copper (annealed)
+ 
+==================================================================================================
+ 
+===========================================
+Finished CAD processing (for field results)
+===========================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:25:53
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:25:54
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+===============================
+Port preparation
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:25:55
+===============================
+
+==========================
+Finished port preparation.
+==========================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:25:55
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:25:56
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==============================
+Mesher selection: manual: FPBA
+==============================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:25:56
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+==========================================
+Matrix computation (FPBA)
+	[FPBA accuracy enhancement is enabled]
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:25:56
+==========================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 67.00%.
+----------------------------------------------
+
+------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+settings for port mode calculation
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PBA fill limit is applied in inverse mode.
+PBA fill limit is applied on faces filled with at least 97.51% metal material.
+--------------------------------------------------------------
+detailed accuracy settings:
+--------------------------------------------------------------
+augmented fill limit:       true
+augmented fill limit value: 97.51
+automatic fill limit:       true
+early fill limit:           true
+inverse fill limit:         true
+model complexity:           0.00
+legacy 2015:                false
+fixed point accuracy:       false
+minimum point accuracy:     0
+mesh step inheritance:      false
+accuracy mode:              
+------------------------------------------------------------------------------
+
+==================================
+Finished matrix computation (FPBA)
+==================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:25:59
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:25:59
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:02
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==============================
+Mesher selection: manual: FPBA
+==============================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:03
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+==========================================
+Matrix computation (FPBA)
+	[FPBA accuracy enhancement is enabled]
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:26:03
+==========================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 67.00%.
+----------------------------------------------
+
+------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+settings for port mode calculation
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PBA fill limit is applied in inverse mode.
+PBA fill limit is applied on faces filled with at least 97.51% metal material.
+--------------------------------------------------------------
+detailed accuracy settings:
+--------------------------------------------------------------
+augmented fill limit:       true
+augmented fill limit value: 97.51
+automatic fill limit:       true
+early fill limit:           true
+inverse fill limit:         true
+model complexity:           0.00
+legacy 2015:                false
+fixed point accuracy:       false
+minimum point accuracy:     0
+mesh step inheritance:      false
+accuracy mode:              
+------------------------------------------------------------------------------
+
+==================================
+Finished matrix computation (FPBA)
+==================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:07
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:07
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:11
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==============================
+Mesher selection: manual: FPBA
+==============================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:11
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+==========================================
+Matrix computation (FPBA)
+	[FPBA accuracy enhancement is enabled]
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:26:11
+==========================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 67.00%.
+----------------------------------------------
+
+------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+settings for port mode calculation
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PBA fill limit is applied in inverse mode.
+PBA fill limit is applied on faces filled with at least 97.51% metal material.
+--------------------------------------------------------------
+detailed accuracy settings:
+--------------------------------------------------------------
+augmented fill limit:       true
+augmented fill limit value: 97.51
+automatic fill limit:       true
+early fill limit:           true
+inverse fill limit:         true
+model complexity:           0.00
+legacy 2015:                false
+fixed point accuracy:       false
+minimum point accuracy:     0
+mesh step inheritance:      false
+accuracy mode:              
+------------------------------------------------------------------------------
+
+==================================
+Finished matrix computation (FPBA)
+==================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:19
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:19
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:23
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==============================
+Mesher selection: manual: FPBA
+==============================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:23
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+==========================================
+Matrix computation (FPBA)
+	[FPBA accuracy enhancement is enabled]
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:26:23
+==========================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 67.00%.
+----------------------------------------------
+
+------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+settings for port mode calculation
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PBA fill limit is applied in inverse mode.
+PBA fill limit is applied on faces filled with at least 97.51% metal material.
+--------------------------------------------------------------
+detailed accuracy settings:
+--------------------------------------------------------------
+augmented fill limit:       true
+augmented fill limit value: 97.51
+automatic fill limit:       true
+early fill limit:           true
+inverse fill limit:         true
+model complexity:           0.00
+legacy 2015:                false
+fixed point accuracy:       false
+minimum point accuracy:     0
+mesh step inheritance:      false
+accuracy mode:              
+------------------------------------------------------------------------------
+
+==================================
+Finished matrix computation (FPBA)
+==================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:40
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:40
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:46
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==============================
+Mesher selection: manual: FPBA
+==============================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:46
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+==========================================
+Matrix computation (FPBA)
+	[FPBA accuracy enhancement is enabled]
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:26:46
+==========================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 67.00%.
+----------------------------------------------
+
+------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+settings for port mode calculation
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PBA fill limit is applied in inverse mode.
+PBA fill limit is applied on faces filled with at least 97.51% metal material.
+--------------------------------------------------------------
+detailed accuracy settings:
+--------------------------------------------------------------
+augmented fill limit:       true
+augmented fill limit value: 97.51
+automatic fill limit:       true
+early fill limit:           true
+inverse fill limit:         true
+model complexity:           0.00
+legacy 2015:                false
+fixed point accuracy:       false
+minimum point accuracy:     0
+mesh step inheritance:      false
+accuracy mode:              
+------------------------------------------------------------------------------
+
+==================================
+Finished matrix computation (FPBA)
+==================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:49
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:49
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:52
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==============================
+Mesher selection: manual: FPBA
+==============================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:26:53
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+==========================================
+Matrix computation (FPBA)
+	[FPBA accuracy enhancement is enabled]
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:26:53
+==========================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 67.00%.
+----------------------------------------------
+
+------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+settings for port mode calculation
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PBA fill limit is applied in inverse mode.
+PBA fill limit is applied on faces filled with at least 97.51% metal material.
+--------------------------------------------------------------
+detailed accuracy settings:
+--------------------------------------------------------------
+augmented fill limit:       true
+augmented fill limit value: 97.51
+automatic fill limit:       true
+early fill limit:           true
+inverse fill limit:         true
+model complexity:           0.00
+legacy 2015:                false
+fixed point accuracy:       false
+minimum point accuracy:     0
+mesh step inheritance:      false
+accuracy mode:              
+------------------------------------------------------------------------------
+
+==================================
+Finished matrix computation (FPBA)
+==================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:57
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:26:57
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:27:01
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==============================
+Mesher selection: manual: FPBA
+==============================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:27:01
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+==========================================
+Matrix computation (FPBA)
+	[FPBA accuracy enhancement is enabled]
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:27:01
+==========================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 67.00%.
+----------------------------------------------
+
+------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+settings for port mode calculation
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PBA fill limit is applied in inverse mode.
+PBA fill limit is applied on faces filled with at least 97.51% metal material.
+--------------------------------------------------------------
+detailed accuracy settings:
+--------------------------------------------------------------
+augmented fill limit:       true
+augmented fill limit value: 97.51
+automatic fill limit:       true
+early fill limit:           true
+inverse fill limit:         true
+model complexity:           0.00
+legacy 2015:                false
+fixed point accuracy:       false
+minimum point accuracy:     0
+mesh step inheritance:      false
+accuracy mode:              
+------------------------------------------------------------------------------
+
+==================================
+Finished matrix computation (FPBA)
+==================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:27:09
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:27:09
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:27:13
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==============================
+Mesher selection: manual: FPBA
+==============================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:27:13
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+==========================================
+Matrix computation (FPBA)
+	[FPBA accuracy enhancement is enabled]
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:27:13
+==========================================
+
+----------------------------------------------
+Used point accuracy enhancement value: 67.00%.
+----------------------------------------------
+
+------------------------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+settings for port mode calculation
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PBA fill limit is applied in inverse mode.
+PBA fill limit is applied on faces filled with at least 97.51% metal material.
+--------------------------------------------------------------
+detailed accuracy settings:
+--------------------------------------------------------------
+augmented fill limit:       true
+augmented fill limit value: 97.51
+automatic fill limit:       true
+early fill limit:           true
+inverse fill limit:         true
+model complexity:           0.00
+legacy 2015:                false
+fixed point accuracy:       false
+minimum point accuracy:     0
+mesh step inheritance:      false
+accuracy mode:              
+------------------------------------------------------------------------------
+
+==================================
+Finished matrix computation (FPBA)
+==================================
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:27:29
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:27:30
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2023 Mar 22 (Wed): 16:27:36
+<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+======================
+Mesher selection: FPBA
+======================
+
+==================================================================
+ - desired group: 0, sockets = 0
+ - pinning rule: PINNING_RULE_DEFAULT
+ - skip setting processor groups: there is only 1 processor group.
+ - num cores available : 8
+ - hyperthreading      : on
+ - used mask (uint64_t): 85
+ - used mask (string)  : 10101010
+==================================================================
+
+===============================
+Processing CAD model
+Version 2016.1 (build 20160226)
+2023 Mar 22 (Wed): 16:27:36
+===============================
+
+---------------------------------------------
+Used point accuracy enhancement value: 0.00%.
+---------------------------------------------
+
+=============================================================================
+Mesh statistics:
+-----------------------------------------------------------------------------
+Minimum edge length (x): 0.15 @ mesh line 44 (x)
+Maximum edge length (x): 4.37 @ mesh line 124 (x)
+Minimum face area (x): 0.0603 @ mesh lines 43 | 14 (y | z)
+Maximum face area (x): 18.2 @ mesh lines 124 | 33 (y | z)
+Minimum edge length (y): 0.15 @ mesh line 43 (y)
+Maximum edge length (y): 4.37 @ mesh line 124 (y)
+Minimum face area (y): 0.0603 @ mesh lines 14 | 44 (z | x)
+Maximum face area (y): 18.2 @ mesh lines 33 | 124 (z | x)
+Minimum edge length (z): 0.402 @ mesh line 14 (z)
+Maximum edge length (z): 4.17 @ mesh line 33 (z)
+Minimum face area (z): 0.0225 @ mesh lines 44 | 43 (x | y)
+Maximum face area (z): 19.1 @ mesh lines 124 | 124 (x | y)
+Maximum mesh face aspect ratio (x): 27.8 : 1.0  @ mesh lines 43 | 33 (y | z)
+Maximum mesh face aspect ratio (y): 27.8 : 1.0  @ mesh lines 33 | 44 (z | x)
+Maximum mesh face aspect ratio (z): 29.2 : 1.0  @ mesh lines 124 | 43 (x | y)
+=============================================================================
+
+=======================
+Finished CAD processing
+=======================
+
+------------------------------------------------------------
+Parallelization Info
+------------------------------------------------------------
+Number of concurrent threads: 4
+Number of node domains: 8
+Number of mesh cells: 571536
+------------------------------------------------------------
+Node order
+5, 6, 4, 2, 7, 3, 1, 0
+------------------------------------------------------------
+
+1xN000:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
+         2023 Mar 22 (Wed): 16:27:56
+         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN000:  ==================================================================
+          - desired group: 0, sockets = 0
+          - pinning rule: PINNING_RULE_DEFAULT
+          - skip setting processor groups: there is only 1 processor group.
+          - num cores available : 8
+          - hyperthreading      : on
+          - used mask (uint64_t): 85
+          - used mask (string)  : 10101010
+         ==================================================================
+
+1xN000:  ==========================================
+         Matrix computation (FPBA)
+         	[FPBA accuracy enhancement is enabled]
+         Version 2016.1 (build 20160226)
+         2023 Mar 22 (Wed): 16:27:56
+         ==========================================
+
+1xN000:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN000:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 90.23% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 90.23
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN000:  ==================================
+         Finished matrix computation (FPBA)
+         ==================================
+
+1xN000:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+         2023 Mar 22 (Wed): 16:27:59
+         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN001:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
+         2023 Mar 22 (Wed): 16:27:54
+         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN001:  ==================================================================
+          - desired group: 0, sockets = 0
+          - pinning rule: PINNING_RULE_DEFAULT
+          - skip setting processor groups: there is only 1 processor group.
+          - num cores available : 8
+          - hyperthreading      : on
+          - used mask (uint64_t): 85
+          - used mask (string)  : 10101010
+         ==================================================================
+
+1xN001:  ==========================================
+         Matrix computation (FPBA)
+         	[FPBA accuracy enhancement is enabled]
+         Version 2016.1 (build 20160226)
+         2023 Mar 22 (Wed): 16:27:54
+         ==========================================
+
+1xN001:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN001:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 90.23% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 90.23
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN001:  ==================================
+         Finished matrix computation (FPBA)
+         ==================================
+
+1xN001:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+         2023 Mar 22 (Wed): 16:28:00
+         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN002:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
+         2023 Mar 22 (Wed): 16:27:38
+         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN002:  ==================================================================
+          - desired group: 0, sockets = 0
+          - pinning rule: PINNING_RULE_DEFAULT
+          - skip setting processor groups: there is only 1 processor group.
+          - num cores available : 8
+          - hyperthreading      : on
+          - used mask (uint64_t): 85
+          - used mask (string)  : 10101010
+         ==================================================================
+
+1xN002:  ==========================================
+         Matrix computation (FPBA)
+         	[FPBA accuracy enhancement is enabled]
+         Version 2016.1 (build 20160226)
+         2023 Mar 22 (Wed): 16:27:38
+         ==========================================
+
+1xN002:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN002:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 90.23% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 90.23
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN002:  ==================================
+         Finished matrix computation (FPBA)
+         ==================================
+
+1xN002:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+         2023 Mar 22 (Wed): 16:27:52
+         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN003:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
+         2023 Mar 22 (Wed): 16:27:53
+         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN003:  ==================================================================
+          - desired group: 0, sockets = 0
+          - pinning rule: PINNING_RULE_DEFAULT
+          - skip setting processor groups: there is only 1 processor group.
+          - num cores available : 8
+          - hyperthreading      : on
+          - used mask (uint64_t): 85
+          - used mask (string)  : 10101010
+         ==================================================================
+
+1xN003:  ==========================================
+         Matrix computation (FPBA)
+         	[FPBA accuracy enhancement is enabled]
+         Version 2016.1 (build 20160226)
+         2023 Mar 22 (Wed): 16:27:53
+         ==========================================
+
+1xN003:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN003:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 90.23% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 90.23
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN003:  ==================================
+         Finished matrix computation (FPBA)
+         ==================================
+
+1xN003:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+         2023 Mar 22 (Wed): 16:27:59
+         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN004:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
+         2023 Mar 22 (Wed): 16:27:38
+         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN004:  ==================================================================
+          - desired group: 0, sockets = 0
+          - pinning rule: PINNING_RULE_DEFAULT
+          - skip setting processor groups: there is only 1 processor group.
+          - num cores available : 8
+          - hyperthreading      : on
+          - used mask (uint64_t): 85
+          - used mask (string)  : 10101010
+         ==================================================================
+
+1xN004:  ==========================================
+         Matrix computation (FPBA)
+         	[FPBA accuracy enhancement is enabled]
+         Version 2016.1 (build 20160226)
+         2023 Mar 22 (Wed): 16:27:38
+         ==========================================
+
+1xN004:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN004:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 90.23% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 90.23
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN004:  ==================================
+         Finished matrix computation (FPBA)
+         ==================================
+
+1xN004:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+         2023 Mar 22 (Wed): 16:27:53
+         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN005:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
+         2023 Mar 22 (Wed): 16:27:38
+         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN005:  ==================================================================
+          - desired group: 0, sockets = 0
+          - pinning rule: PINNING_RULE_DEFAULT
+          - skip setting processor groups: there is only 1 processor group.
+          - num cores available : 8
+          - hyperthreading      : on
+          - used mask (uint64_t): 85
+          - used mask (string)  : 10101010
+         ==================================================================
+
+1xN005:  ==========================================
+         Matrix computation (FPBA)
+         	[FPBA accuracy enhancement is enabled]
+         Version 2016.1 (build 20160226)
+         2023 Mar 22 (Wed): 16:27:38
+         ==========================================
+
+1xN005:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN005:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 90.23% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 90.23
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN005:  ==================================
+         Finished matrix computation (FPBA)
+         ==================================
+
+1xN005:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+         2023 Mar 22 (Wed): 16:27:55
+         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN006:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
+         2023 Mar 22 (Wed): 16:27:38
+         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN006:  ==================================================================
+          - desired group: 0, sockets = 0
+          - pinning rule: PINNING_RULE_DEFAULT
+          - skip setting processor groups: there is only 1 processor group.
+          - num cores available : 8
+          - hyperthreading      : on
+          - used mask (uint64_t): 85
+          - used mask (string)  : 10101010
+         ==================================================================
+
+1xN006:  ==========================================
+         Matrix computation (FPBA)
+         	[FPBA accuracy enhancement is enabled]
+         Version 2016.1 (build 20160226)
+         2023 Mar 22 (Wed): 16:27:38
+         ==========================================
+
+1xN006:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN006:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 90.23% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 90.23
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN006:  ==================================
+         Finished matrix computation (FPBA)
+         ==================================
+
+1xN006:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+         2023 Mar 22 (Wed): 16:27:54
+         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+1xN007:  <<<<<<<<<<<<<<<<<<<<<<<<<<<
+         2023 Mar 22 (Wed): 16:27:52
+         <<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1xN007:  ==================================================================
+          - desired group: 0, sockets = 0
+          - pinning rule: PINNING_RULE_DEFAULT
+          - skip setting processor groups: there is only 1 processor group.
+          - num cores available : 8
+          - hyperthreading      : on
+          - used mask (uint64_t): 85
+          - used mask (string)  : 10101010
+         ==================================================================
+
+1xN007:  ==========================================
+         Matrix computation (FPBA)
+         	[FPBA accuracy enhancement is enabled]
+         Version 2016.1 (build 20160226)
+         2023 Mar 22 (Wed): 16:27:52
+         ==========================================
+
+1xN007:  ssssssssssssssssssssssssssssssssssssssssss
+         # of curls with SI accuracy enhancement: 0
+         ssssssssssssssssssssssssssssssssssssssssss
+
+1xN007:  ------------------------------------------------------------------------------
+         PBA fill limit is applied in inverse mode.
+         PBA fill limit is applied on faces filled with at least 90.23% metal material.
+         --------------------------------------------------------------
+         detailed accuracy settings:
+         --------------------------------------------------------------
+         augmented fill limit:       true
+         augmented fill limit value: 90.23
+         automatic fill limit:       true
+         early fill limit:           true
+         inverse fill limit:         true
+         model complexity:           0.00
+         legacy 2015:                false
+         fixed point accuracy:       false
+         minimum point accuracy:     0
+         mesh step inheritance:      false
+         accuracy mode:
+         ------------------------------------------------------------------------------
+
+1xN007:  ==================================
+         Finished matrix computation (FPBA)
+         ==================================
+
+1xN007:  >>>>>>>>>>>>>>>>>>>>>>>>>>>
+         2023 Mar 22 (Wed): 16:28:08
+         >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023 Mar 22 (Wed): 16:28:22
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+
+--------------------------------
+# of staircase filled cells: 0
+# of staircase filled areas: 0
+# of staircase filled edges: 0
+# of faces above fill limit: 0
+# of edges with FPBA topology: 0
+--------------------------------
+

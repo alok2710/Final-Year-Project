@@ -1,0 +1,54 @@
+*** File Version: 14.00
+
+Number of ports: 0
+Portnames:
+Modenumbers:
+Portlabels:
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+Terminals:
+TerminalToReferenceTable:
+Number of frequency-points: 0
+Fmin: 2.200000e+009
+Fmax: 2.600000e+009
+Fscale: 1.000000e+009
+
+
+
+
+
+*** newmonitor
+monname: "farfield (f=2.4)"
+nmonfrequencies: 1
+monfrequencies: "2.4" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=2.4)"
+nmonfrequencies: 1
+monfrequencies: "2.4" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=2.4)"
+nmonfrequencies: 1
+monfrequencies: "2.4" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

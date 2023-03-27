@@ -1,0 +1,942 @@
+20100312
+[start]hidden_objects
+[end]hidden_objects
+[start]history_expert_mode
+[start]2022_11_20
+delete;
+[end]2022_11_20
+[end]history_expert_mode
+[start]history_fast_undo
+[start]undo_item
+[start]block_index
+4
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Substrate"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+6
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Square Patch"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+7
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Square Cut"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+10
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Slot 1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+11
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Slot 1_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+12
+[end]block_index
+[start]command
+'@ transform: translate component1:Slot 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Slot 1" 
+     .Vector "(-1)*0", "(-1)*1.6", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+13
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Rectangle Patch"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+14
+[end]block_index
+[start]command
+'@ transform: translate component1:Rectangle Patch
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Rectangle Patch" 
+     .Vector "(-1)*-20", "(-1)*-1.6", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+15
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+16
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+18
+[end]block_index
+[start]command
+'@ transform: translate component1:Slot 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Slot 1" 
+     .Vector "(-1)*0", "(-1)*0.425", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+19
+[end]block_index
+[start]command
+'@ transform: translate component1:Slot 1_1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Slot 1_1" 
+     .Vector "(-1)*0", "(-1)*-0.425", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+20
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+21
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+23
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:patch 1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+24
+[end]block_index
+[start]command
+'@ transform: translate component1:patch 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:patch 1" 
+     .Vector "(-1)*-16.6", "(-1)*-7.55", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+25
+[end]block_index
+[start]command
+'@ transform: translate component1:patch 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:patch 1" 
+     .Vector "(-1)*0", "(-1)*-0.85", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+32
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Rect 1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+33
+[end]block_index
+[start]command
+'@ transform: translate component1:Rect 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Rect 1" 
+     .Vector "(-1)*-30", "(-1)*-1.5", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+34
+[end]block_index
+[start]command
+'@ transform: translate component1:Rect 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Rect 1" 
+     .Vector "(-1)*0", "(-1)*-0.1", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+38
+[end]block_index
+[start]command
+'@ transform: rotate component1:Rect 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Rect 1" 
+     .Origin "Free" 
+     .Center "0", "0", "0" 
+     .Angle "-1*0", "-1*0", "-1*90" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Rotate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+39
+[end]block_index
+[start]command
+'@ transform: rotate component1:Rect 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Rect 1" 
+     .Origin "Free" 
+     .Center "0", "0", "0" 
+     .Angle "-1*0", "-1*180", "-1*0" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Rotate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+40
+[end]block_index
+[start]command
+'@ transform: translate component1:Rect 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Rect 1" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*1.635" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+41
+[end]block_index
+[start]command
+'@ transform: translate component1:Rect 1
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Rect 1" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*1.6" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+42
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Slot"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+43
+[end]block_index
+[start]command
+'@ transform: translate component1:Slot
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:Slot" 
+     .Vector "(-1)*-2.45", "(-1)*-30", "(-1)*0" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+44
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:Slot_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+48
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+50
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+59
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+61
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+64
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+65
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+67
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+68
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+70
+[end]block_index
+[start]command
+'@ activate global coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "global"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+72
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:square path1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+73
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+74
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+76
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+77
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+79
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "component1:cut square 1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+81
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+82
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+84
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+85
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+87
+[end]block_index
+[start]command
+'@ activate local coordinates
+[end]command
+[start]content
+WCS.ActivateWCS "local"
+[end]content
+[start]recover_picks
+0
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+88
+[end]block_index
+[start]command
+
+'@ transform: translate component1:square path1
+
+[end]command
+[start]content
+With Transform 
+     .Reset 
+     .Name "component1:square path1" 
+     .Vector "(-1)*0", "(-1)*0", "(-1)*-1.635" 
+     .UsePickedPoints "False" 
+     .InvertPickedPoints "False" 
+     .MultipleObjects "False" 
+     .GroupObjects "False" 
+     .Repetitions "1" 
+     .MultipleSelection "False" 
+     .Transform "Shape", "Translate" 
+End With 
+
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[end]history_fast_undo
+[start]PortAndLumpedLabelState
+[start]ShowLabels
+1
+[end]ShowLabels
+[start]ShowLabelsShort
+1
+[end]ShowLabelsShort
+[start]ZoomDependPortLabels
+1
+[end]ZoomDependPortLabels
+[end]PortAndLumpedLabelState

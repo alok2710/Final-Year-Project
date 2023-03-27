@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Alok Yadav
+[Mesh Cells]
+408,242
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:demo1 8 oct 22.cst?2aae5e749a2bdea911ad7ecf71fdd945?11566:numberofparameters=10:port=1>mode=1>zre=0>zim=0:::hg?hp?xg?xgr?xm?xp?yg?ygr?ym?yp
+[Comment]

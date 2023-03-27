@@ -1,0 +1,6 @@
+With MeshSettings
+     With .ItemMeshSettings ("solid$component1:Antenna 4_1")
+          .SetMeshType "All" 
+          .Set "Transform", "0", "-1", "0", "1", "0", "0", "0", "0", "1" 
+     End With
+End With

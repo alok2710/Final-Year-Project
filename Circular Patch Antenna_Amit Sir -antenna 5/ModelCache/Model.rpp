@@ -1,0 +1,67 @@
+7
+0
+0
+9
+E-field,Theta=0,Phi=0.0
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+E-field,Theta=0,Phi=0.0
+Gain (IEEE),Theta=0,Phi=0.0
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Gain (IEEE),Theta=0,Phi=0.0
+E-field,3D,Max. Value (Solid Angle)
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+E-field,3D,Max. Value (Solid Angle)
+Gain (IEEE),Theta=30,Max. Value
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Gain (IEEE),Theta=30,Max. Value
+Gain (IEEE),Theta=20,Max. Value
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Gain (IEEE),Theta=20,Max. Value
+Gain (IEEE),Theta=90,Max. Value
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Gain (IEEE),Theta=90,Max. Value
+Gain (IEEE),Theta=10,Max. Value
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Gain (IEEE),Theta=10,Max. Value
+Gain (IEEE),Theta=45,Max. Value
+Farfield Result
+1
+1D
+Farfield and Antenna Properties
+1
+Gain (IEEE),Theta=45,Max. Value
+Gain (IEEE) at const phi=0 for 5x5 array (array factor)
+Farfield Result
+1
+M1D
+Farfield and Antenna Properties
+0
+0

@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+ANISH
+[Mesh Cells]
+1,659,864
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:5ghz resonating antenna_05-11-22.cst?538d6a2a3332465c1a11524c6cabb56f?15673:numberofparameters=5:port=1>mode=1>zre=50>zim=0:::h?x?xs?y?ys
+[Comment]
