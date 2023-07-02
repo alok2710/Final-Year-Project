@@ -1,6 +1,6 @@
 # DESIGN OF MICROSTRIP 4-PORT CIRCULARLY POLARIZED MIMO ANTENNA FOR SUB-6 GHz BAND
 
-# By ALOK YADAV & SHANT RATHOD 
+# By [Alok Yadav](https://www.linkedin.com/in/alok2710/) & SHANT RATHOD 
 
 # Under the Guidance of 
 # Dr. Amit Kumar (Assistant Professor NIT Srinagar)
