@@ -1,22 +1,22 @@
 # DESIGN OF MICROSTRIP 4-PORT CIRCULARLY POLARIZED MIMO ANTENNA FOR SUB-6 GHz BAND
 
-# By [Alok Yadav](https://www.linkedin.com/in/alok2710/) & SHANT RATHOD 
+# By [Alok Yadav](https://www.linkedin.com/in/alok2710/) & Shant Rathod
 
 # Under the Guidance of 
 # Dr. Amit Kumar (Assistant Professor NIT Srinagar)
 
-## [Youtube Link](https://www.youtube.com/channel/UC7ln87o0Gt8OkkHIqEmeDQw/videos)
+
 
 Hundreds of people (especially children go missing every day) in India. There are various <b>NGO's and Govt Initiatives</b> to help with it. This project tries to implement an  existing/new way to help.
 
 ## List of contents
-- ### [News Articles](#news-articles)
-- ### [Objective](#what-is-the-objective-of-this-project-and-how-will-it-help)
-- ### [Solution](#solution-projects-implementation)
+- ### [Introduction](#INTRODUCTION)
+- ### [Design](#what-is-the-objective-of-this-project-and-how-will-it-help)
+- ### [Simulation](#solution-projects-implementation)
 - ### [Installation](#how-to-run)
 - ### [What is left/not working?](#what-is-left)
 
-## News Articles
+## INTRODUCTION
 #### [Article 1](https://www.thehindu.com/society/indias-missing-children-what-the-whatsapp-rumours-dont-tell-you/article24641527.ece)
 ![News Article 1](resources/news_1.PNG)
 #### [Article 2](https://www.deccanchronicle.com/nation/current-affairs/250518/indias-children-174-go-missing-every-day-half-untraced.html)
